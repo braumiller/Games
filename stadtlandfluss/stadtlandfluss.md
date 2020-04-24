@@ -1,23 +1,26 @@
 # Stadt, Land, Fluss
 
-"Stadt, Land, Fluss" (Spielregeln findest du [hier](../README.md#stadt-land-fluss)) ist ein sehr unterhaltsames Spiel. Allerdings kann es sehr schnell langweilig werden, da man nach einigen Runden bereits für fast alle Kategorien und Buchstaben ein passendes Wort auswendig kennt. Damit dies nicht passiert, findest Du auf dieser Seite eine große Sammlung an alternativen Kategorie-Ideen.
+"Stadt, Land, Fluss" (die Spielregeln findest Du [hier](../README.md#stadt-land-fluss)) ist ein sehr unterhaltsames Spiel. Allerdings kann es sehr schnell langweilig werden, da man nach einigen Runden bereits für fast alle Kategorien und Buchstaben ein passendes Wort auswendig kennt. Damit dies nicht passiert, findest Du auf dieser Seite eine große Sammlung an [alternativen Kategorie-Ideen](#Allgemeinr-Variationen) sowie weiteren Spiel-Variationen.
+
+Natürlich können die aufgeführten Kategorien auch beliebig abgewandelt, erweitert oder eingeschränkt werden. Möglichkeiten hierzu sind oftmals in Form von Unterpunkten aufgelistet.
 
 ## Kategorien
-### Geographisch
-* Stadt und/oder Dorf
+### Geographie
+* Stadt
+  * inklusive oder exklusive Dorf
   * Hauptstadt (von Ländern oder auch Bundesländern)
 * Land
-  * Sprache
-* Fluss und/ oder Bach und/oder Gewässer
+* Gewässer
+  * nur Fluss/Bach
+  * nur See/Meer
 * Insel
-* alle geographischen Kategorien können auch auf Regionen eingeschränkt werden (z.B. Stadt in Bayern, in Deutscland, in Europa, ...)
 
-### Menschen
+### Mensch
 * Name
-  * Vornamen
-  * Nachnamen
-  * Weibliche Vornamen
-  * Männliche Vornamen
+  * Vorname
+  * Nachname
+  * Weiblicher Vorname
+  * Männlicher Vorname
 * Berühmte Persönlichkeit
   * Autor
   * Schauspieler
@@ -26,52 +29,50 @@
     * Fußballer
   * Musiker
   * Künstler
-* Körperteile (von Zelle bis hin zu Arm)
-* Krankheiten
-* Todesursache
+* Körperteil (von Zelle bis hin zu Arm)
+* Krankheit
 * Kleidungsstück
 * Gefühl
 * Eigenschaft
+* Verbrechen
 
 ### Natur
-* Tiere
-  * Insekten
-  * Säugetiere
-  * Im Wasser lebende Tiere
-  * Flugfähige Tiere
-* Pflanzen
-* Berge
+* Tier
+  * Insekt
+  * Säugetier
+  * Im Wasser lebendes Tier
+  * Flugfähiges Tier
+* Pflanze
+* Berg/Gebirge
 
 ### Fachliches
-* Berufe
+* Beruf
 * Studien-/Schulfach
 * Software-Programm
   * Nur Handy-App
 * Mathematischer Begriff
 * Physikalischer Begriff
 * Chemisches Element
-* ...
+* Werkzeug
 
 ### Freizeit
 * Hobby
-* Filme
-  * Kinofilme
-  * TV-Filme
-  * Serien
-* Fernsehsending (Talkshows, Reality-TV, ...)
-* Film-Charaktere (nicht die Schauspieler-Namen)
+* Film
+  * Kinofilm
+  * TV-Film
+  * Serie
+* Fernsehsendung (Talkshow, Reality-TV, ...)
+* Film-Charakter (nicht die Schauspieler-Namen)
 * Comic-Charakter 
-* Automarken
-* Bücher
-* Bands
-* Lieder
+* Buchtitel
+* Band
+* Lied
 * Sportart
 * Sportgerät/-utensil
-* Spiele
-  * Kann entweder auf eine/mehrere der folgenden Rubriken eingeschränkt werden oder alle erlauben:
-    * Computer-Spiele
-    * Klassische Spiele (Brettspiele, Kartenspiele, ...)
-    * Sportliche Spiele (z.B. Fußball, nicht aber Judo)
+* Spiel
+    * nur Computer-Spiel
+    * nur klassisches Spiel (Brettspiel, Kartenspiel, ...)
+    * Sport mit Spielcharakter (z.B. Fußball, nicht aber Judo)
 * Nahrungsmittel / Essen
   * Gemüse
   * Obst
@@ -80,38 +81,48 @@
   * Alkoholisches/nicht alkoholisches Getränk
   * Getränkemarke/-Firma
 
-### Sonstiges
-* Formen:
+# Sprachliches
+* Sprache
+* Adjektiv
+* Verb
+* Wort in einer Fremdsprachedjektiv
+  * in einer spezifischen Fremdsprache
+  * in irgendeiner Fremdsprache
+
+### Kreatives
+* Etwas mit bestimmten Formen
   * Etwas Rundes
   * Etwas Eckiges
     * Etwas Viereckiges
     * Etwas Rechteckiges
     * Etwas Quadratisches
-* Farben:
-  * Farbe
-  * Etwas Weißes
-  * Etwas Schwarzes
-  * ...
-* Werkzeug
-* Etwas, das fliegen kann
-* Gegenstand, der gerade im Raum oder Sichtweite ist
+  * Etwas mit bestimmten Farben
+    * Etwas Weißes
+    * Etwas Schwarzes
+    * ...
+* Scheidungsgrund
+* Todesursache
+* Witz (der Witz muss mit dem Buchstaben beginnen und dann erzählt werden)
+* Etwas Peinliches
+* Grund zum Heulen
+* Grund zum Lachen
 * Schimpfwort/Beleidigung
 * Kosename
 * Grund für eine Verspätung
-* Unternehmen
-* Möbelstück
-* Witz (der Witz muss mit dem Buchstaben beginnen und dann erzählt werden)
-* Etwas Peinliches
-* Verbrechen
-* Scheidungsgrund
-* Adjektiv
-* Verb
-* Wort in einer Fremdsprache
 * Geschenkidee
+
+### Sonstiges
+* Etwas, das fliegen kann
+* Gegenstand, der gerade im Raum oder Sichtweite ist
+* Unternehmen
 * Internestseite
+* Automarke
+* Möbelstück
+* Feiertag
 
 ## Allgemeine Variationen
 * Alle Kategorien können auch so verwendet werden, dass das Wort auf den gesuchten Buchstaben endet
+* alle geographischen Kategorien können auch auf Regionen eingeschränkt werden (z.B. Stadt in Bayern, in Deutscland, in Europa, ...)
 * Sprachvariationen:
   * Wörter aus beliebigen Sprachen zulassen
   * Nur deutsche Wörter zulassen
