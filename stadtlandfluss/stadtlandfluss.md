@@ -1,6 +1,6 @@
 # Stadt, Land, Fluss
 
-"Stadt, Land, Fluss" (die Spielregeln findest Du [hier](../README.md#stadt-land-fluss)) ist ein sehr unterhaltsames Spiel. Allerdings kann es sehr schnell langweilig werden, da man nach einigen Runden bereits für fast alle Kategorien und Buchstaben ein passendes Wort auswendig kennt. Damit dies nicht passiert, findest Du auf dieser Seite eine große Sammlung an [alternativen Kategorie-Ideen](#Allgemeinr-Variationen) sowie weiteren Spiel-Variationen.
+"Stadt, Land, Fluss" (die Spielregeln findest Du [hier](../README.md#stadt-land-fluss)) ist ein sehr unterhaltsames Spiel. Allerdings kann es sehr schnell langweilig werden, da man nach einigen Runden bereits für fast alle Kategorien und Buchstaben ein passendes Wort auswendig kennt. Damit dies nicht passiert, findest Du auf dieser Seite eine große Sammlung an [alternativen Kategorie-Ideen](#kategorien) sowie weiteren [Spiel-Variationen](#allgemeine-variationen).
 
 Natürlich können die aufgeführten Kategorien auch beliebig abgewandelt, erweitert oder eingeschränkt werden. Möglichkeiten hierzu sind oftmals in Form von Unterpunkten aufgelistet.
 
