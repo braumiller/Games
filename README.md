@@ -1,4 +1,4 @@
-# "Corono-taugliche" Spielesammlung
+# "Corona-taugliche" Spielesammlung
 Hier findest du eine kleine Sammlung an Spielen, die gut über Skype & Co. spielbar sind und damit auch in Zeiten von COVID-19 für lustige Abende mit Freunden sorgen können.
 
 ## Stadt, Land, Fluss
