@@ -50,6 +50,8 @@ Natürlich können die aufgeführten Kategorien auch beliebig abgewandelt, erwei
 * Studien-/Schulfach
 * Software-Programm
   * Nur Handy-App
+  * Programmiersprache
+  * Schlüsselwort aus irgendeiner oder einer spetifischen Programmiersprache
 * Mathematischer Begriff
 * Physikalischer Begriff
 * Chemisches Element
@@ -85,7 +87,7 @@ Natürlich können die aufgeführten Kategorien auch beliebig abgewandelt, erwei
 * Sprache
 * Adjektiv
 * Verb
-* Wort in einer Fremdsprachedjektiv
+* Wort in einer Fremdsprache
   * in einer spezifischen Fremdsprache
   * in irgendeiner Fremdsprache
 
