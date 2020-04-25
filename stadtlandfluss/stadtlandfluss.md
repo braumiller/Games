@@ -83,7 +83,7 @@ Natürlich können die aufgeführten Kategorien auch beliebig abgewandelt, erwei
   * Alkoholisches/nicht alkoholisches Getränk
   * Getränkemarke/-Firma
 
-# Sprachliches
+### Sprachliches
 * Sprache
 * Adjektiv
 * Verb
